@@ -27,6 +27,8 @@ We encourage everyone interested to debug / hack /contribute / give feedback to 
 - Dynamo 2.1 or above (we're currently testing with 2.7+)
 - A Speckle Server running (more on this below)
 - Speckle Manager (more on this below)
+- Visual Studio 2019
+- .NET Framework 4.8
 
 ### Getting Started 🏁
 
